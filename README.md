@@ -76,3 +76,6 @@ WebXR passthrough doesn't give web pages access to the camera, so "tree next to 
 Face and voice recognition here are lightweight demo heuristics, not security-grade biometrics.
 Privacy
 No audio or images are stored. Each person's numeric voiceprint, face-geometry signature, transcript snippets and facts stay in your browser's local storage, and in any export file you create. Speech-to-text goes through Chrome's cloud recognizer. Ask people before you plant their voice or link their face, and use Delete / Forget face whenever someone asks.
+
+
+ds
